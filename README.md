@@ -107,6 +107,12 @@ git clone https://github.com/selfishclub/my-software-prd "$env:USERPROFILE\.clau
 
 ---
 
+## 예시
+
+[examples/시뮬레이션.md](examples/시뮬레이션.md) — "딱히 만들 게 없는데요"에서 시작해 PRD를 만들고, 과제로 올린 뒤 개발로 넘어가는 가상 인터뷰
+
+---
+
 ## 중간에 써먹는 말
 
 | 이럴 때 | 이렇게 말해요 |
@@ -133,6 +139,8 @@ my-software-prd/   (이 레포 = 스킬 폴더 그대로)
     ├── install-track.md         ① 내 맥에 설치하는 소프트웨어
     ├── security-checklist.md    배포 · 설치 전 보안 점검표
     └── glossary.md              용어 풀이
+└── examples/
+    └── 시뮬레이션.md             가상 크루 민지의 인터뷰 → PRD → 과제 업로드
 ```
 
 ---
